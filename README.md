@@ -1,6 +1,6 @@
-# Crypto ARIMA Forecast & Chaotic Time Series
+# Chaos Theory Crypto Forecast
 
-This repository demonstrates advanced cryptocurrency price analysis combining time series forecasting with chaos theory concepts to generate trading signals.
+Cryptocurrency price analysis combining ARIMA forecasting with chaos theory concepts to generate trading signals.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -36,8 +36,8 @@ This project is primarily for **educational** and **demonstrational** purposes. 
 
 ```bash
 # Clone the repository
-git clone https://github.com/mrapinheiro/ai-chaos-crypto-analysis.git
-cd crypto-arima-forecast
+git clone https://github.com/0xmrpinheiro/chaos-theory-crypto-forecast.git
+cd chaos-theory-crypto-forecast
 
 # Install dependencies
 pip install -r requirements.txt
